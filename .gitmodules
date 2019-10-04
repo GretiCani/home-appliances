@@ -1,0 +1,3 @@
+[submodule "rayonit-backend-spring-boot"]
+	path = rayonit-backend-spring-boot
+	url = https://github.com/GretiCani/rayonit-backend.git
